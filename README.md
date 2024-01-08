@@ -15,3 +15,5 @@ go get github.com/SimonStnn/iseven
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 If you have any suggestions or improvements, please open an issue to discuss them. I appreciate all feedback and ideas!
+
+> Thank you for using my Go package!
